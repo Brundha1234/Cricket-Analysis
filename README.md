@@ -1,4 +1,6 @@
-🏏 T20 Cricket Data Analysis Project
+**🏏 T20 Cricket Data Analysis Project**
+
+
 📌 Project Overview
 
 This project analyzes T20 World Cup cricket data by combining web scraping, Python preprocessing, and Power BI dashboards.
